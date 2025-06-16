@@ -43,8 +43,7 @@ task2(
 ],
 'side,currency,value\nIN,PLN,1\nIN,EUR,2\nOUT,ANY,3'
 )
-Rozwiązanie
-W poniższym formularzu zamieść wynik task2 dla pliku z danymi pod linkiem find_match_average.dat.lz4 oraz kluczy
+
 
 [
 {'a': 862984, 'b': 29105, 'c': 605280, 'd': 678194, 'e': 302120},
